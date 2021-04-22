@@ -1,2 +1,2 @@
-# Tarea_de_-jennifer_soto
+#  notas-investigacion-reproducible
 Primera tarea 
